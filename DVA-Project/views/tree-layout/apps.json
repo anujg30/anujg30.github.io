@@ -1,0 +1,61 @@
+{
+    "name": "flare",
+    "children": [{
+        "name": "category1",
+        "children": [{
+            "name": "app1",
+            "children": [{
+                "name": "version1",
+                "size": 0
+            }, {
+                "name": "version2",
+                "size": 3812
+            }, {
+                "name": "version3",
+                "size": 6714
+            }, {
+                "name": "version4",
+                "size": 743
+            }]
+        }, {
+            "name": "app2",
+            "children": [{
+                "name": "version1",
+                "size": 3534
+            }, {
+                "name": "version2",
+                "size": 5731
+            }, {
+                "name": "version3",
+                "size": 7840
+            }, {
+                "name": "version4",
+                "size": 5914
+            }, {
+                "name": "version5",
+                "size": 3416
+            }]
+        }]
+    }, {
+        "name": "category2",
+        "children": [{
+            "name": "app4",
+            "size": 17010
+        }, {
+            "name": "app5",
+            "size": 5842
+        }, {
+            "name": "app6",
+            "children": [{
+                "name": "version1",
+                "size": 1983
+            }, {
+                "name": "version2",
+                "size": 2047
+            }, {
+                "name": "version3",
+                "size": 1375
+            }]
+        }]
+    }]
+}

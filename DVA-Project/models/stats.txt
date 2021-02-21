@@ -1,0 +1,90 @@
+Accuracy -
+Knowledge based transfer learning = 0.86
+Structural Correspondence Learning (SCL) algorithm = 0.85
+Sentiment Sensitive Thesaurus (SST) algorithm - 0.825
+
+Threshold = 100 reviews, 98365  reviews analysed
+	If rating > 3 is considered positive, accuracy =  0.667593009864
+	If rating > 4 is considered positive, accuracy =  0.706790035587
+
+Threshold = 1 review, 262731  reviews analysed
+	If rating > 3 is considered positive, accuracy =  0.680194666995
+	If rating > 4 is considered positive, accuracy =  0.710473744292
+	If rating > 5 is considered positive, accuracy =  0.736921024123
+
+Manually labeled 100 reviews and checked
+	Accuracy on these labeled reviews: 76%
+	Number of Positive reviews: 76
+	Number of Predicted Positive Reviews: 60
+	Average Star rating of these reviews: 4.35
+
+
+Run times -
+Run time for 1 app(Sentiment + Topics + Versioning) = 3.803s
+
+Full run - 
+
+Start time =  1449084078.79
+Done with  50  applications  time =  1449084404.32
+Done with  100  applications  time =  1449084819.35
+Done with  150  applications  time =  1449085194.77
+Done with  200  applications  time =  1449085529.13
+Done with  250  applications  time =  1449085813.9
+Done with  300  applications  time =  1449086213.69
+Done with  350  applications  time =  1449086619.32
+Done with  400  applications  time =  1449087031.55
+Done with  450  applications  time =  1449087427.28
+Done with  500  applications  time =  1449087851.96
+Data for  500  applications extracted
+Final run time =  3773.22073913
+
+
+Ratings distribution-
+0 6
+1 38819
+2 12840
+3 22360
+4 38191
+5 153599
+
+TFIDF scores-
+	App 1-
+		Topic =  challenging  TFIDF =  0.0720717649105
+		Topic =  stuck  TFIDF =  0.00470963346689
+		Topic =  money  TFIDF =  0.0226131931093
+		Topic =  object  TFIDF =  0.187738106924
+		Topic =  bought  TFIDF =  0.0047367857485
+		Topic =  puzzles  TFIDF =  0.103997093707
+		Topic =  hints  TFIDF =  0.0229847698027
+		Topic =  enough  TFIDF =  0.00402354758873
+		Topic =  games  TFIDF =  0.139386157087
+		Topic =  inventory  TFIDF =  0.000597759313289
+		Topic =  mystic  TFIDF =  0.0217275030908
+		Topic =  front  TFIDF =  0.000277142659184
+		Topic =  diary  TFIDF =  0.0205911494182
+		Topic =  hidden  TFIDF =  0.288253027661
+		Topic =  waste  TFIDF =  0.0099234393404
+		Topic =  expensive  TFIDF =  0.00217501873862
+		Topic =  first  TFIDF =  0.0329687236721
+		Topic = if, TFIDF =  0.0436903351173
+		Topic = can, TFIDF =  0.0891930851037
+
+	App 2-
+		Topic =  available  TFIDF =  0.0173076923077
+		Topic =  takes  TFIDF =  0.07668997669
+		Topic =  german  TFIDF =  0.0034188034188
+		Topic =  movie  TFIDF =  0.00719526627219
+		Topic =  error  TFIDF =  0.0017094017094
+		Topic =  freezing  TFIDF =  0.00384615384615
+		Topic =  streams  TFIDF =  0.00236686390533
+		Topic =  english  TFIDF =  0.135970695971
+		Topic =  download  TFIDF =  0.00384615384615
+		Topic =  android  TFIDF =  0.0094674556213
+		Topic =  movie4k  TFIDF =  0.0319230769231
+		Topic =  trouble  TFIDF =  0.00384615384615
+		Topic =  uninstall  TFIDF =  0.00615384615385
+		Topic = if, TFIDF =  0.00236686390533
+		Topic = can, TFIDF =  0.00692307692308
+
+Perplexity of topic models-
+Estimate the variational bound of documents from corpus: E_q[log p(corpus)] - E_q[log q(corpus)] = -11539.43931(average)

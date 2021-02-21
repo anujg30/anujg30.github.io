@@ -1,0 +1,27 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background: white;
+}
+
+iframe {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  display: block;
+  background: white;
+  border: none;
+  height: 100vh;
+  width: 99vw;
+}
+
+#mainCompare {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  display: block;
+  background: white;
+  border: none;
+  height: 150vh;
+  width: 99vw;
+}

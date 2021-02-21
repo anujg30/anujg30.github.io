@@ -1,0 +1,23 @@
+* { font-family: "Roboto" "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+th {
+  text-align: center;
+  font-weight: bold;
+}
+
+td {
+  text-align: center;
+}
+
+td.longData {
+  text-align: justify;
+}
+
+td.reviewHead {
+  font-weight: bold;
+}

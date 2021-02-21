@@ -1,0 +1,74 @@
+{
+    "package_name1": {
+        "app_name": "app1",
+        "category": "category1",
+        "number_of_reviews": 200,
+        "topics": [
+            "topic1",
+            "topic2",
+            "topic3"
+        ],
+        "avg_rating": 4,
+        "sentiment_value": 10,
+        "versions": {
+            "v1": {
+                "number_of_reviews": 20,
+                "avg_rating": 4,
+                "sentiment_value": 10
+            },
+            "v2": {
+                "number_of_reviews": 180,
+                "avg_rating": 4,
+                "sentiment_value": 10
+            }
+        }
+    },
+    "package_name3": {
+        "app_name": "app3",
+        "category": "category1",
+        "number_of_reviews": 200,
+        "topics": [
+            "topic1",
+            "topic2",
+            "topic3"
+        ],
+        "avg_rating": 4,
+        "sentiment_value": 10,
+        "versions": {
+            "v1": {
+                "number_of_reviews": 250,
+                "avg_rating": 4,
+                "sentiment_value": 10
+            },
+            "v2": {
+                "number_of_reviews": 1850,
+                "avg_rating": 4,
+                "sentiment_value": 10
+            }
+        }
+    },
+    "package_name2": {
+        "app_name": "app2",
+        "category": "category2",
+        "number_of_reviews": 20,
+        "topics": [
+            "topic12",
+            "topic22",
+            "topic32"
+        ],
+        "avg_rating": 4,
+        "sentiment_value": 10,
+        "versions": {
+            "v1": {
+                "number_of_reviews": 10,
+                "avg_rating": 4,
+                "sentiment_value": 10
+            },
+            "v2": {
+                "number_of_reviews": 10,
+                "avg_rating": 4,
+                "sentiment_value": 10
+            }
+        }
+    }
+}

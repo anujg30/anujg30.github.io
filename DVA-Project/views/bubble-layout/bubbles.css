@@ -1,0 +1,93 @@
+* { font-family: "Roboto" "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+.node {
+  cursor: pointer;
+}
+
+.node:hover {
+  stroke: purple;
+  stroke-width: 1.5px;
+}
+
+.node--root {
+  stroke: #bfbfbf;
+  stroke-width: 2px;
+}
+
+/* .node--leaf { fill: white; } */
+
+.label {
+  font: 11px "Roboto" "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  text-anchor: middle;
+}
+
+.label,
+.node--root,
+.node--leaf {
+  pointer-events: none;
+}
+
+.appIcon {
+    border-radius: 25px;
+    background: #73AD21;
+    width: 50px;
+    height: 50px;
+}
+
+.sentimentIcon {
+    border-radius: 7px;
+    background: #fefefe;
+    width: 18px;
+    height: 18px;
+}
+
+.topic-list {
+  text-align: left;
+  padding-left: 5px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+.topic-emtions {
+  text-align: right;
+  padding-right: 5px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+.topic-heading {
+  background-color: #f9f9f9;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.popover {
+  min-width: 150px;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.rating {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+  color : gold;
+}
+.rating > span {
+  display: inline-block;
+  position: relative;
+  width: 1.1em;
+  color : gold;
+}
+.rating > span:hover:before,
+.rating > span:hover ~ span:before {
+   content: "\2605";
+   position: absolute;
+   color : gold;
+}

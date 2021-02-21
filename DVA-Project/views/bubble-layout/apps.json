@@ -1,0 +1,256 @@
+{
+    "name": "apps",
+    "children": [{
+        "sentimentScore": 13.657012412965805,
+        "name": "Alternate Communication",
+        "children": [{
+            "name": "QQ International - Chat & Call",
+            "dod": {
+                "worstReview": {
+                    "comment": "I wish I could give negative stars because I had on my old phone but I had to get a new phone and now all I get is error message every time get this fixed ASAP",
+                    "timestampMsec": 1393529793473,
+                    "title": "It won't let me download keeps giving me an error message",
+                    "starRating": 1,
+                    "documentVersion": "4.5.13",
+                    "commentId": "gp:AOqpTOEnPYISGzsLxvQJ9o9lPAP2fnz2Be0S9aUAUidVCTgxunl5oRj7-8IJ-duYWp9Aj3BaJ4qSXsUz-omZcHc"
+                },
+                "topics": {
+                    "s": 4.808105799498584,
+                    "app": 19.77588450489803,
+                    "like": 16.05323910683571,
+                    "fix": -36.49955497502478,
+                    "permissions": -10.32592369279243
+                },
+                "sentimentScore": 13.657012412965805,
+                "avgRating": 3.325,
+                "bestReview": {
+                    "comment": "The latest versions of QQi have really brought it into the modern age, dragging it from it's roots as an ICQ port for Chinese people into the modern WhatsApp and Line-dominated mobile world of the 21st century.   Gone are the old style graphics and logos and in has come a far cleaner, more modern interface which is a lot more intuitive than previous versions. The use of English in menus also feels like it has really undergone a change in emphasis, with the impression being now that Tencent understands that QQi is a way for QQ to grow worldwide, rather than a tool to allow the minority of English speakers to chat to Chinese friends. Gone are shoddy translations on the whole, though the odd mistake can still be spotted in QQi desktop and mobile.  That's not to say everything is perfect with this app now - there are still the odd bugs, translation isn't perfect (though to be honest, no one yet gets it right most of the time, let alone all of the time) and you do still got odd issues with being locked out of your account.  Overall: Not yet perfect, but a huge step in the right direction!",
+                    "timestampMsec": 1407664976901,
+                    "title": "QQi steps into the modern age!",
+                    "starRating": 4,
+                    "documentVersion": "4.6.13",
+                    "commentId": "gp:AOqpTOEtVoGz6o-UbUGQrQ27iGdL31SuQnS7HnQflB47deHfdo799d5i_LD3fPlW34pudMCsBHjsa_yYwdLYmy4"
+                },
+                "icon": "https://lh3.ggpht.com/mL6sQwRKT24FMVm8cJaQ672HlNtuMiGfgQ00o62u_kSl236y9OuE4SC6PJBZdXgAZro=w300"
+            },
+            "children": [{
+                "sentimentScore": -0.6253908353916273,
+                "name": "4.6.13",
+                "avgRating": 3.2,
+                "size": 20
+            }, {
+                "sentimentScore": -5.914473686520333,
+                "name": "4.6.12",
+                "avgRating": 3.7,
+                "size": 20
+            }, {
+                "sentimentScore": 18.992972065406448,
+                "name": "4.6.11",
+                "avgRating": 3.9,
+                "size": 20
+            }, {
+                "sentimentScore": 0.9423004025317159,
+                "name": "4.6.10",
+                "avgRating": 3.1,
+                "size": 20
+            }, {
+                "sentimentScore": -3.9073762963660528,
+                "name": "4.5.13",
+                "avgRating": 3.45,
+                "size": 20
+            }, {
+                "sentimentScore": 4.168980763305655,
+                "name": "5.0.10",
+                "avgRating": 2.6,
+                "size": 20
+            }]
+        }, {
+            "name": "QQ International - Chat & Call",
+            "dod": {
+                "worstReview": {
+                    "comment": "I wish I could give negative stars because I had on my old phone but I had to get a new phone and now all I get is error message every time get this fixed ASAP",
+                    "timestampMsec": 1393529793473,
+                    "title": "It won't let me download keeps giving me an error message",
+                    "starRating": 1,
+                    "documentVersion": "4.5.13",
+                    "commentId": "gp:AOqpTOEnPYISGzsLxvQJ9o9lPAP2fnz2Be0S9aUAUidVCTgxunl5oRj7-8IJ-duYWp9Aj3BaJ4qSXsUz-omZcHc"
+                },
+                "topics": {
+                    "s": 4.808105799498584,
+                    "app": 19.77588450489803,
+                    "like": 16.05323910683571,
+                    "fix": -36.49955497502478,
+                    "permissions": -10.32592369279243
+                },
+                "sentimentScore": 13.657012412965805,
+                "avgRating": 3.325,
+                "bestReview": {
+                    "comment": "The latest versions of QQi have really brought it into the modern age, dragging it from it's roots as an ICQ port for Chinese people into the modern WhatsApp and Line-dominated mobile world of the 21st century.   Gone are the old style graphics and logos and in has come a far cleaner, more modern interface which is a lot more intuitive than previous versions. The use of English in menus also feels like it has really undergone a change in emphasis, with the impression being now that Tencent understands that QQi is a way for QQ to grow worldwide, rather than a tool to allow the minority of English speakers to chat to Chinese friends. Gone are shoddy translations on the whole, though the odd mistake can still be spotted in QQi desktop and mobile.  That's not to say everything is perfect with this app now - there are still the odd bugs, translation isn't perfect (though to be honest, no one yet gets it right most of the time, let alone all of the time) and you do still got odd issues with being locked out of your account.  Overall: Not yet perfect, but a huge step in the right direction!",
+                    "timestampMsec": 1407664976901,
+                    "title": "QQi steps into the modern age!",
+                    "starRating": 4,
+                    "documentVersion": "4.6.13",
+                    "commentId": "gp:AOqpTOEtVoGz6o-UbUGQrQ27iGdL31SuQnS7HnQflB47deHfdo799d5i_LD3fPlW34pudMCsBHjsa_yYwdLYmy4"
+                },
+                "icon": "https://lh3.ggpht.com/mL6sQwRKT24FMVm8cJaQ672HlNtuMiGfgQ00o62u_kSl236y9OuE4SC6PJBZdXgAZro=w300"
+            },
+            "children": [{
+                "sentimentScore": -0.6253908353916273,
+                "name": "4.6.13",
+                "avgRating": 3.2,
+                "size": 20
+            }, {
+                "sentimentScore": -5.914473686520333,
+                "name": "4.6.12",
+                "avgRating": 3.7,
+                "size": 20
+            }, {
+                "sentimentScore": 18.992972065406448,
+                "name": "4.6.11",
+                "avgRating": 3.9,
+                "size": 20
+            }, {
+                "sentimentScore": 0.9423004025317159,
+                "name": "4.6.10",
+                "avgRating": 3.1,
+                "size": 20
+            }, {
+                "sentimentScore": -3.9073762963660528,
+                "name": "4.5.13",
+                "avgRating": 3.45,
+                "size": 20
+            }, {
+                "sentimentScore": 4.168980763305655,
+                "name": "5.0.10",
+                "avgRating": 2.6,
+                "size": 20
+            }]
+        }]
+    }, {
+        "sentimentScore": 13.657012412965805,
+        "name": "Communication",
+        "children": [{
+            "name": "QQ International - Chat & Call",
+            "dod": {
+                "worstReview": {
+                    "comment": "I wish I could give negative stars because I had on my old phone but I had to get a new phone and now all I get is error message every time get this fixed ASAP",
+                    "timestampMsec": 1393529793473,
+                    "title": "It won't let me download keeps giving me an error message",
+                    "starRating": 1,
+                    "documentVersion": "4.5.13",
+                    "commentId": "gp:AOqpTOEnPYISGzsLxvQJ9o9lPAP2fnz2Be0S9aUAUidVCTgxunl5oRj7-8IJ-duYWp9Aj3BaJ4qSXsUz-omZcHc"
+                },
+                "topics": {
+                    "s": 4.808105799498584,
+                    "app": 19.77588450489803,
+                    "like": 16.05323910683571,
+                    "fix": -36.49955497502478,
+                    "permissions": -10.32592369279243
+                },
+                "sentimentScore": 13.657012412965805,
+                "avgRating": 3.325,
+                "bestReview": {
+                    "comment": "The latest versions of QQi have really brought it into the modern age, dragging it from it's roots as an ICQ port for Chinese people into the modern WhatsApp and Line-dominated mobile world of the 21st century.   Gone are the old style graphics and logos and in has come a far cleaner, more modern interface which is a lot more intuitive than previous versions. The use of English in menus also feels like it has really undergone a change in emphasis, with the impression being now that Tencent understands that QQi is a way for QQ to grow worldwide, rather than a tool to allow the minority of English speakers to chat to Chinese friends. Gone are shoddy translations on the whole, though the odd mistake can still be spotted in QQi desktop and mobile.  That's not to say everything is perfect with this app now - there are still the odd bugs, translation isn't perfect (though to be honest, no one yet gets it right most of the time, let alone all of the time) and you do still got odd issues with being locked out of your account.  Overall: Not yet perfect, but a huge step in the right direction!",
+                    "timestampMsec": 1407664976901,
+                    "title": "QQi steps into the modern age!",
+                    "starRating": 4,
+                    "documentVersion": "4.6.13",
+                    "commentId": "gp:AOqpTOEtVoGz6o-UbUGQrQ27iGdL31SuQnS7HnQflB47deHfdo799d5i_LD3fPlW34pudMCsBHjsa_yYwdLYmy4"
+                },
+                "icon": "https://lh3.ggpht.com/mL6sQwRKT24FMVm8cJaQ672HlNtuMiGfgQ00o62u_kSl236y9OuE4SC6PJBZdXgAZro=w300"
+            },
+            "children": [{
+                "sentimentScore": -0.6253908353916273,
+                "name": "4.6.13",
+                "avgRating": 3.2,
+                "size": 20
+            }, {
+                "sentimentScore": -5.914473686520333,
+                "name": "4.6.12",
+                "avgRating": 3.7,
+                "size": 20
+            }, {
+                "sentimentScore": 18.992972065406448,
+                "name": "4.6.11",
+                "avgRating": 3.9,
+                "size": 20
+            }, {
+                "sentimentScore": 0.9423004025317159,
+                "name": "4.6.10",
+                "avgRating": 3.1,
+                "size": 20
+            }, {
+                "sentimentScore": -3.9073762963660528,
+                "name": "4.5.13",
+                "avgRating": 3.45,
+                "size": 20
+            }, {
+                "sentimentScore": 4.168980763305655,
+                "name": "5.0.10",
+                "avgRating": 2.6,
+                "size": 20
+            }]
+        }, {
+            "name": "QQ International - Chat & Call",
+            "dod": {
+                "worstReview": {
+                    "comment": "I wish I could give negative stars because I had on my old phone but I had to get a new phone and now all I get is error message every time get this fixed ASAP",
+                    "timestampMsec": 1393529793473,
+                    "title": "It won't let me download keeps giving me an error message",
+                    "starRating": 1,
+                    "documentVersion": "4.5.13",
+                    "commentId": "gp:AOqpTOEnPYISGzsLxvQJ9o9lPAP2fnz2Be0S9aUAUidVCTgxunl5oRj7-8IJ-duYWp9Aj3BaJ4qSXsUz-omZcHc"
+                },
+                "topics": {
+                    "s": 4.808105799498584,
+                    "app": 19.77588450489803,
+                    "like": 16.05323910683571,
+                    "fix": -36.49955497502478,
+                    "permissions": -10.32592369279243
+                },
+                "sentimentScore": 13.657012412965805,
+                "avgRating": 3.325,
+                "bestReview": {
+                    "comment": "The latest versions of QQi have really brought it into the modern age, dragging it from it's roots as an ICQ port for Chinese people into the modern WhatsApp and Line-dominated mobile world of the 21st century.   Gone are the old style graphics and logos and in has come a far cleaner, more modern interface which is a lot more intuitive than previous versions. The use of English in menus also feels like it has really undergone a change in emphasis, with the impression being now that Tencent understands that QQi is a way for QQ to grow worldwide, rather than a tool to allow the minority of English speakers to chat to Chinese friends. Gone are shoddy translations on the whole, though the odd mistake can still be spotted in QQi desktop and mobile.  That's not to say everything is perfect with this app now - there are still the odd bugs, translation isn't perfect (though to be honest, no one yet gets it right most of the time, let alone all of the time) and you do still got odd issues with being locked out of your account.  Overall: Not yet perfect, but a huge step in the right direction!",
+                    "timestampMsec": 1407664976901,
+                    "title": "QQi steps into the modern age!",
+                    "starRating": 4,
+                    "documentVersion": "4.6.13",
+                    "commentId": "gp:AOqpTOEtVoGz6o-UbUGQrQ27iGdL31SuQnS7HnQflB47deHfdo799d5i_LD3fPlW34pudMCsBHjsa_yYwdLYmy4"
+                },
+                "icon": "https://lh3.ggpht.com/mL6sQwRKT24FMVm8cJaQ672HlNtuMiGfgQ00o62u_kSl236y9OuE4SC6PJBZdXgAZro=w300"
+            },
+            "children": [{
+                "sentimentScore": -0.6253908353916273,
+                "name": "4.6.13",
+                "avgRating": 3.2,
+                "size": 20
+            }, {
+                "sentimentScore": -5.914473686520333,
+                "name": "4.6.12",
+                "avgRating": 3.7,
+                "size": 20
+            }, {
+                "sentimentScore": 18.992972065406448,
+                "name": "4.6.11",
+                "avgRating": 3.9,
+                "size": 20
+            }, {
+                "sentimentScore": 0.9423004025317159,
+                "name": "4.6.10",
+                "avgRating": 3.1,
+                "size": 20
+            }, {
+                "sentimentScore": -3.9073762963660528,
+                "name": "4.5.13",
+                "avgRating": 3.45,
+                "size": 20
+            }, {
+                "sentimentScore": 4.168980763305655,
+                "name": "5.0.10",
+                "avgRating": 2.6,
+                "size": 20
+            }]
+        }]
+    }]
+}

@@ -1,0 +1,9 @@
+com/
+Data/
+reviews-saarland.tar
+
+# OS X Excludes
+.DS_Store
+
+# Class files
+Sentiment.pyc
